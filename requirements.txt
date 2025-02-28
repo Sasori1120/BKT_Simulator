@@ -1,0 +1,6 @@
+streamlit
+plotly
+networkx
+pygraphviz
+pyvis
+jinja2
